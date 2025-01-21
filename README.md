@@ -9,4 +9,3 @@ This is an in class exercise for open source software
  7. List of Contributors (at the bottom of the readme.md)
  8. Who maitains the software
  9. Where users can get help with your project
- 10. 
